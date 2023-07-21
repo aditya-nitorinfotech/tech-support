@@ -1,0 +1,36 @@
+.optionsBox {
+    /* background-color: rgba(255, 255, 255, 0.33); */
+    /* background-color: cadetblue; */
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    /* padding:0px 10px 10px 10px; */
+    padding: 1%;
+    border-radius: 10px;
+    /* margin-left: 3%;
+    margin-right: 3%;
+    margin-top: 3%;
+    margin-bottom: 3%; */
+}
+
+
+.answerBg {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.answerBox {
+    background-color: "white";
+    /* background-color:slategrey; */
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    padding: 2%;
+    /* padding:0px 10px 10px 10px; */
+    border-radius: 5px;
+
+}
+
+.mark {
+    background-color: paleturquoise;
+    color: black;
+}
